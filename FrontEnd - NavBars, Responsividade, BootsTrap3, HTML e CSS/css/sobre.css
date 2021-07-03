@@ -1,0 +1,25 @@
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    color: rgba(255, 255, 255, 0.788);
+}
+
+#lk {
+    margin: auto;
+    height: 40%;
+    width: 40%;
+}
+
+
+
+.texto {
+    margin-left: 5%;
+}
+
+#ti1 {
+    margin-left: 5%;
+}
+
+#ti2 {
+    text-align: center;
+}

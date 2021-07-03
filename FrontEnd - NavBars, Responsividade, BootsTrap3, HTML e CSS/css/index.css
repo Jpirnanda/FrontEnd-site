@@ -1,0 +1,38 @@
+.corpo {
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    color: rgba(255, 255, 255, 0.788);
+}
+
+#lk {
+    margin: auto;
+    height: 40%;
+    width: 40%;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15%;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  #isa {
+      margin-top: 30px;
+      text-align: center;
+  }
